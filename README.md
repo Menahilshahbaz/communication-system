@@ -20,9 +20,6 @@ Searches messages by keywords.
 ### Message/User Deletion: 
 Allows users or messages to be removed along with associated data.
 
-### visual implementation:
-![COMMUNICATION](https://github.com/user-attachments/assets/854e1395-0fad-4d6e-9e36-c7a68b3c4f99)
-
 ### visual implementation 2:
 ![communication2](https://github.com/user-attachments/assets/27c9e389-32ac-4ab6-a6b1-f7badfca331e)
 
